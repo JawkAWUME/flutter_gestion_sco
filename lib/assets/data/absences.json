@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "studentId": "1",
+      "sessionId": "1",
+      "date": "2024-06-16T09:00:00",
+      "isJustified": false,
+      "justification": null
+    },
+    {
+      "id": "2",
+      "studentId": "1",
+      "sessionId": "2",
+      "date": "2024-06-17T11:00:00",
+      "isJustified": true,
+      "justification": "Medical reason"
+    }
+  ]
+  

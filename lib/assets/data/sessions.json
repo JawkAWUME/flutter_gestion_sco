@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "courseId": "1",
+      "startTime": "2024-06-16T09:00:00",
+      "endTime": "2024-06-16T10:00:00",
+      "isOnline": true
+    },
+    {
+      "id": "2",
+      "courseId": "2",
+      "startTime": "2024-06-17T11:00:00",
+      "endTime": "2024-06-17T12:00:00",
+      "isOnline": false
+    }
+  ]
+  

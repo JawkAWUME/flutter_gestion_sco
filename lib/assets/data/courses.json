@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "title": "Math 101",
+      "module": "Mathematics",
+      "professor": "John Doe",
+      "status": "En Cours"
+    },
+    {
+      "id": "2",
+      "title": "Physics 101",
+      "module": "Physics",
+      "professor": "Jane Smith",
+      "status": "Terminé"
+    }
+]
+  
